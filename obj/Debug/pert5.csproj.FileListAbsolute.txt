@@ -1,0 +1,3 @@
+C:\Users\fauzi\OneDrive\Documents\kalkulator\console calculator\ConsoleApp1\pert5\obj\Debug\pert5.csproj.AssemblyReference.cache
+C:\Users\fauzi\OneDrive\Documents\kalkulator\console calculator\ConsoleApp1\pert5\obj\Debug\pert5.csproj.SuggestedBindingRedirects.cache
+C:\Users\fauzi\OneDrive\Documents\kalkulator\console calculator\ConsoleApp1\pert5\obj\Debug\pert5.csproj.CoreCompileInputs.cache
